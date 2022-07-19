@@ -8,10 +8,16 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{44352BB0-374D-4A47-AC54-0F9D95282514}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationLogic", "ApplicationLogic", "{C82019CB-E0BA-4865-AF0A-4452508F3547}"
+	ProjectSection(SolutionItems) = preProject
+		BaseClass.cs = BaseClass.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{019FA8FA-334A-4C5A-9752-40AD642F44CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{8CBF3397-1CB4-4A49-97A3-08D30A45DE88}"
+	ProjectSection(SolutionItems) = preProject
+		Program.cs = Program.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
